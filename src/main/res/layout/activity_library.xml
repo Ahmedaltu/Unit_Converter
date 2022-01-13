@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LibraryActivity"
+    >
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        tools:ignore="MissingConstraints">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageViewA"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/a"
+                tools:ignore="ContentDescription">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/imageViewB"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/b"
+                tools:ignore="ContentDescription">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/imageViewC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/c"
+                tools:ignore="ContentDescription">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/imageViewD"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/d"
+                tools:ignore="ContentDescription">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/imageViewE"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/e"
+                tools:ignore="ContentDescription">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/imageViewF"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/f"
+                tools:ignore="ContentDescription">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/imageViewG"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/g"
+                tools:ignore="ContentDescription">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/imageViewH"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/h"
+                tools:ignore="ContentDescription">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/imageViewI"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/i"
+                tools:ignore="ContentDescription">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/imageViewJ"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/j"
+                tools:ignore="ContentDescription">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/imageViewK"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/k"
+                tools:ignore="ContentDescription">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/imageViewL"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/l"
+                tools:ignore="ContentDescription">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/imageViewM"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/m"
+                tools:ignore="ContentDescription">
+
+            </ImageView>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

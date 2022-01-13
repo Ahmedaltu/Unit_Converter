@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Team2_UnitConverter</string>
+    <string name="for_more_info"><u>For more info</u></string>
+    <string name="library"><u>Library</u></string>
+    <string name="feedback"><u>Feedback</u></string>
+    <string name="information_about_the_app">Information about the app</string>
+    <string name="formulasLibrary">FormulasLibrary</string>
+    <string name="x">X</string>
+    <string name="the_data_you_provide_helps_improve_this_application">The data you provide helps improve this application.</string>
+    <string name="is_this_useful">Is this useful?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="send">Send</string>
+    <string name="equal">=</string>
+    <string name="formula">Formula</string>
+    <string name="the_most_used_formula">Most used conversion</string>
+    <string name="todo">TODO</string>
+    <string name="convert">convert</string>
+    <string name="scroll_view">ScrollView</string>
+    <string name="image_viewA">ImageViewA</string>
+    <string name="image_viewB">ImageViewB</string>
+    <string name="image_viewC">ImageViewC</string>
+    <string name="image_viewD">ImageViewD</string>
+    <string name="image_viewE">ImageViewE</string>
+    <string name="image_viewF">ImageViewF</string>
+    <string name="image_viewG">ImageViewG</string>
+    <string name="image_viewH">ImageViewH</string>
+    <string name="image_viewI">ImageViewI</string>
+    <string name="image_viewJ">ImageViewJ</string>
+    <string name="image_viewK">ImageViewK</string>
+    <string name="image_viewL">ImageViewL</string>
+    <string name="image_viewM">ImageViewM</string>
+    <string name="if_you_can_not_find_your_unit_you_can_add_your_conversion_formula_here_under_add_formula">If you can not find your unit you can add your conversion formula here under Add formula</string>
+    <string name="add_formula">Add formula</string>
+    <string name="result">Result</string>
+    <string name="find_result">Find result</string>
+</resources>
