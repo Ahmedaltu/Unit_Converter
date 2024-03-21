@@ -1,8 +1,8 @@
-Unit converter and mini calculater Android mobile application.
+Unit converter and mini calculator Android mobile application.
 
-Programed by using Java.
+Using Java.
 
-Watch the demo vedio of the application for more info. 
+Watch the demo video of the application for more info. 
 
 
 
